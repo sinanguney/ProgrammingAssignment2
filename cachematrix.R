@@ -5,7 +5,7 @@
 
 makeCacheMatrix <- function(x = matrix()) {
 
-##sinan guney
+##sinan guney222
 
 }
 
